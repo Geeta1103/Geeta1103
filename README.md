@@ -30,13 +30,13 @@ I am an intermediate web developer, graphic and Adobe designer working for the p
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Cyber Security**, **Cloud Computing** and **Internet Of Things**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **ankitkumar1990asap@gmail.com** && **itzprincliv@gmail.com**
+- 📫 Reach me at: https://www.linkedin.com/in/geeta-bharti-582966248
 - ⚡ Fun fact: I love designing and travelling to explore new places.
-- ❤️ Building a community to make an impact by training new generations on cutting edge \
+- ❤️ Building a community to make an impact by training new generations on cutting-edge \
 technologies to meet future requirements.</br>
 
 
-### `My Reseach Interest:`
+### `My Research Interest:`
 <!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">-->
 
 - Outlying Aspect Mining
@@ -48,47 +48,14 @@ technologies to meet future requirements.</br>
  ### `I am open to:`
 
 
-- any collobration work,
+- any collaboration work,
 - machine learning projects(development or research),
 - research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 <details>
    <summary>📝 Resume</summary>
-
- ## Education
- <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
-
-  - 📍 **Uttarakhand Technical University, Dehradun** < 2021-2025 >\
-   📖**Bechelor In Technology-< Computer Science And Engineering >**
-
- - 📍 **Kendriya Vidyalaya, Danapur Cantt, Patna** < 2018-2020 >\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
- 
- - 📍 **Kendriya Vidyalaya, Danapur Cantt, Patna** < 2013-2018 >\
-   📖**Secondary Schooling**
- 
-   
-   
-   
- ## Experience
- -  👨‍💻 **Web Development**------------------------< Training >\
-    📆 sept,2021 - moment\
-    📍 **Intershala** - Roorkee, India
-   
- <!---  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-    📆 Feb,2022 - moment\
-    📍 **GirlScript Summer of Code** - Maharashtra, India
-   
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-    📆 Oct,2020 - moment\
-    📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-    📆 Dec,2019 - Jun,2020\
-    📍 **Internshala** - Roorkee, India-->
-
-   </details>
+</details>
 
 
 ## 🎓Tools and Technologies:
